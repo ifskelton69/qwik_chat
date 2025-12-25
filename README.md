@@ -61,7 +61,7 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 JWT_SECRET=your_jwt_secret
 
-📦 Future Improvements
+Future Improvements
 🔍 Search users & messages
 📞 Voice/Video calls
 🔒 End-to-end encryption

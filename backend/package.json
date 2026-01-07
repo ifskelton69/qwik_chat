@@ -8,7 +8,8 @@
   },
   "scripts": {
     "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "clean": "rm -rf node_modules package-lock.json"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",

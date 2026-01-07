@@ -9,8 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "router": "^2.2.0"
-  }
+  "license": "ISC"
 }
